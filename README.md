@@ -8,7 +8,7 @@
 
 ## 🧘‍♀️ About Me
 
-I build VRChat worlds in Unity and Blender, stream ASMR on [Twitch](https://www.twitch.tv/SweetSamanthaVR) and [Kick](https://kick.com/SweetSamanthaVR), and spend the rest of my time chasing "what if?" ideas, turning them into small tools, experiments, or experiences just to see what happens.
+I build VRChat worlds in Unity and Blender, stream ASMR on [Twitch](https://www.twitch.tv/SweetSamanthaVR) and spend the rest of my time chasing "what if?" ideas, turning them into small tools, experiments, or experiences just to see what happens.
 
 This GitHub is my playground. Expect tinkering.
 
